@@ -10,14 +10,14 @@
 
 ## 📊 Progress Tracker
 ```
-Total Problems Solved: 2/1000
+Total Problems Solved: 3/1000
 Current Streak: 1 day 🔥
 Last Updated: November 3, 2025
 ```
 
 | Difficulty | Solved | Target |
 |------------|--------|--------|
-| 🟢 Easy    | 2      | 150    |
+| 🟢 Easy    | 3      | 150    |
 | 🟡 Medium  | 0      | 100    |
 | 🔴 Hard    | 0      | 20     |
 
@@ -39,7 +39,7 @@ Last Updated: November 3, 2025
 leetcode-practice/
 ├── easy/
 │   ├── arrays/          ✅ 2 problems
-│   ├── strings/         📝 Coming soon
+│   ├── strings/         ✅ 1 problem
 │   ├── hash-maps/
 │   ├── linked-lists/
 │   └── trees/
@@ -59,12 +59,13 @@ leetcode-practice/
 
 ## ✅ Solved Problems
 
-### 🟢 Easy (2/150)
+### 🟢 Easy (3/150)
 
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays, Hash Map | Nov 3, 2025 | [Solution](./easy/arrays/two-sum.js) |
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Arrays, DP | Nov 3, 2025 | [Solution](./easy/arrays/best-time-to-buy-sell-stock.js) |
+| 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Strings, Stack | Nov 3, 2025 | [Solution](./easy/strings/valid-parentheses.js) |
 
 ### 🟡 Medium (0/100)
 _Coming soon..._
